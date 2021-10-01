@@ -3,6 +3,7 @@ Consider booking tickets to travel by flight from Miami to California. The short
 Should allow any extra features like the inclusion of extra baggage, discount based on Promo Code, or facilities for frequent traveller such as the special lounge.
 
 Solution Description:
+Please Keep the file Booking.py,FlightSelection.py and FlightInfo.xlsx in same project
 Main file to execute is FlightSelection.py
 
 Based upon the above scenario created the input excel file which has Origin, Destination, Distance between origin and destination and flight fare. 
